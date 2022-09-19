@@ -7,8 +7,8 @@
 😀
 ![NKUST](nkust.jpg "高科大")
 
--[ ] todo list
--[ ] 2nd things
+- [ ] todo list
+- [ ] 2nd things
 
 ```Python
 python code
